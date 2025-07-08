@@ -77,7 +77,7 @@ sudo apt-get install ros-$ROS_DISTRO-gazebo-ros-pkgs ros-$ROS_DISTRO-gazebo-ros-
 Clone the package
 ```bash
 cd $ROS_WORKSPACE/src
-git clone <repository-url>
+git clone https://github.com/snobotics/ICROS2025_Quadruped_Robot_Challenges.git
 ```
 
 Build & install
